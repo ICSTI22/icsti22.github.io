@@ -1,0 +1,31 @@
+@import url('https://fonts.googleapis.com/css?family=Kanit');
+@charset "utf-8";
+.fontkanit {
+	font-family: 'Kanit'
+}
+
+.headmenuline {
+	min-height:2px;
+	background-color:#F90;
+}
+.mgTop5px{
+	margin-top:2px;	
+}
+.sloTop {
+	margin-top:15px;
+	margin-bottom:2px;
+	font-weight:bold;
+	font-size:25px;
+	color:#F60
+}
+.mgL15px{
+	margin-left:15px;	
+}
+.engsloTop{
+	margin-top:3px;
+	color:#090;
+}
+.textsizeNav{
+	font-size:17px;
+}
+
